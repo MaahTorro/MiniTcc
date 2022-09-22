@@ -95,3 +95,11 @@ footer{
     width: 100%;
     align-items: center;
 }
+
+.nav-line {
+    width: 100%;
+}
+
+.line {
+    color: #000;
+}
